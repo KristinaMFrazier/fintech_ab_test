@@ -5,7 +5,7 @@ by Kristina Frazier
 Welcome to my mini-project submission for the hypothetical A/B test analysis for
 Intellicron!
 
-You can find my complete analysis responses in the file "productanalyst_kristinafrazier_2_analysis" (both a Jupyter notebook and .pdf export are included.)
+You can find my complete analysis responses in the file "productanalyst_kristinafrazier_2_analysis" (both a Jupyter notebook and HTML export are included.)
 
 Additionally, the notebook relies on a pre-processed version of the original prequals datasets. The file "productanalyst_kristinafrazier_1_dataprep.py" prepares the data for the production code included in the notebook.
 
